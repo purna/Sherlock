@@ -1,0 +1,17 @@
+{
+"companyName": "ESCG",
+"productName": "LEGO - Sherlock",
+"productVersion": "1.1.1",
+"dataUrl": "sherlock.data.unityweb",
+"wasmCodeUrl": "sherlock.wasm.code.unityweb",
+"wasmFrameworkUrl": "sherlock.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "sherlock.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
