@@ -1,17 +1,17 @@
 {
-"companyName": "ESCG",
+"companyName": "Pixelagent",
 "productName": "LEGO - Sherlock",
-"productVersion": "1.1.1",
-"dataUrl": "sherlock.data.unityweb",
-"wasmCodeUrl": "sherlock.wasm.code.unityweb",
-"wasmFrameworkUrl": "sherlock.wasm.framework.unityweb",
+"productVersion": "1.1.4-preview.1",
+"dataUrl": "Sherlock.data.unityweb",
+"wasmCodeUrl": "Sherlock.wasm.code.unityweb",
+"wasmFrameworkUrl": "Sherlock.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"backgroundUrl": "sherlock.jpg",
-"splashScreenStyle": "Dark",
+"backgroundUrl": "Sherlock.jpg",
+"splashScreenStyle": "Light",
 "backgroundColor": "#FFFFFF",
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.17f1"
+"unityVersion": "2019.4.21f1"
 }
