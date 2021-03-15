@@ -1,0 +1,17 @@
+{
+"companyName": "Pixelagent",
+"productName": "LEGO - Sherlock",
+"productVersion": "1.1.4-preview.1",
+"dataUrl": "e3fc9277b466f19412a3eed51d2a71de.unityweb",
+"wasmCodeUrl": "c5a61301d53e352f9863d82655c5ccf0.unityweb",
+"wasmFrameworkUrl": "a589a6d2c117258509fc5c2e8d841c78.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "6934423c02218860a89af65c12019b68.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
