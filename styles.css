@@ -11,3 +11,7 @@ body div.center{
     height: 600px; 
     margin: 0 auto;
 }
+
+a{
+    color:gold;
+}
